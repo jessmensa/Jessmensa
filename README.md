@@ -6,6 +6,8 @@
 - 📚 Currently Studying Java with the goal of becoming expert in blockchain, microservices and banking appplication backend. 
 - 🤔 I’m open to Flutter Engineering roles.  
 # Myself
+- 🛠 Two years building apps in Flutter
+- 👨🏿‍💻 Freelancing and Working on side projects atm. 
 - ☕️ i dont really like coffee, just water. 
 - 🗣 Very communicative 
 - 🎯 Focused
