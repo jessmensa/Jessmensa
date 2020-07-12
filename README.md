@@ -5,8 +5,9 @@
 - 👨🏿‍🍳I cook iOS & Flutter Apps.
 - 🤔 I’m open to Flutter Engineering roles.  
 # Myself
-- 🛠 Two years building apps in Flutter
+- 🛠 Two years building apps in Flutter and iOS.
 - 👨🏿‍💻 Freelancing and Working on side projects atm. 
+- 📚 Currently learning Java development. 
 - ☕️ i dont really like coffee, just water. 
 - 🗣 Very communicative 
 - 🎯 Focused
