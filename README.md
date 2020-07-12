@@ -2,7 +2,7 @@
 
 # What i do
 - 👨🏿‍💻 I am a Mobile Application Developer.  
-- 👨🏿‍🍳I create Flutter and iOS Application.
+- 👨🏿‍🍳I cook iOS & Flutter Apps.
 - 🤔 I’m open to Flutter Engineering roles.  
 # Myself
 - 🛠 Two years building apps in Flutter
