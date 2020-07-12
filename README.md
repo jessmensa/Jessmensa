@@ -2,8 +2,7 @@
 
 # What i do
 - 👨🏿‍💻 I am a Mobile Application Developer.  
-- 👨🏿‍🍳I create Flutter Apps.  
-- 📚 Currently Studying Java with the goal of becoming expert in blockchain, microservices and banking appplication backend. 
+- 👨🏿‍🍳I create Flutter and iOS Application.
 - 🤔 I’m open to Flutter Engineering roles.  
 # Myself
 - 🛠 Two years building apps in Flutter
