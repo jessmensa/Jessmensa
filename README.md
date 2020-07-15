@@ -6,8 +6,7 @@
 - 🤔 I’m open to Flutter and iOS Engineering roles.  
 # Myself
 - 🛠 Two years building apps in Flutter and iOS.
-- 👨🏿‍💻 Freelancing and Working on side projects atm. 
-- 📚 Currently learning Java development. 
+- 👨🏿‍💻 Freelancing and Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
 - 🗣 Very communicative 
 - 🎯 Focused
