@@ -2,10 +2,9 @@
 
 # What i do
 - 👨🏿‍💻 I am a Mobile Application Developer.  
-- 👨🏿‍🍳I cook iOS & Flutter Apps.
+- 👨🏿‍🍳learning how to cook Flutter & Java Applications. 
 - 🤔 I’m open to Flutter and iOS dev roles.  
 # Myself
-- 🛠 Two years building apps in Flutter and iOS.
 - 👨🏿‍💻 Freelancing and Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
 - 🗣 Very communicative 
