@@ -1,8 +1,7 @@
 ### Hi, I am Jesse Mensah 👋🇬🇭
 
 # What i do
-- 👨🏿‍💻 I am a Mobile Application Developer.  
-- 👨🏿‍🍳learning how to cook Flutter & Java Applications. 
+- 👨🏿‍💻 Data Science(Tensorflow, Pytorch) & Mobile App Dev(Flutter)
 - 🤔 I’m open to Flutter and iOS dev roles.  
 # Myself
 - 👨🏿‍💻 Freelancing and Working on side projects atm.  
