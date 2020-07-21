@@ -1,8 +1,8 @@
 ### Hi, I am Jesse Mensah 👋🇬🇭
 
 # What i do
-- 👨🏿‍💻 Data Science(Tensorflow, Pytorch) & Mobile App Dev(Flutter)
-- 🤔 I’m open to Flutter and Data Science roles.  
+- 👨🏿‍💻 Mobile Application Developer(Flutter|iOS|Android)
+- 🤔 Open to Mobile Dev Roles
 # Myself
 - 👨🏿‍💻 Freelancing and Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
