@@ -1,8 +1,8 @@
 ### Hi, I am Jesse Mensah 👋🇬🇭
 
 # What i do
-- 👨🏿‍💻 Mobile Application Developer(iOS & Flutter)
-- 🤔 Open to Mobile Dev Roles (iOS & Flutter)
+- 👨🏿‍💻 Flutter & Java Developer
+- 🤔 Open to Mobile Dev Roles (Flutter & Java)
 # Myself
 - 👨🏿‍💻 Freelancing and Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
