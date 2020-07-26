@@ -3,7 +3,7 @@
 # What i do
 - 👨🏿‍💻 Java,Python(Machine Learning) and Flutter(Mobile). 
 # Myself
-- 👨🏿‍💻 Freelancing and Working on side projects atm.  
+- 👨🏿‍💻 Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
 - 🗣 Very communicative 
 - 🎯 Focused
