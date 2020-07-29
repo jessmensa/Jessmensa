@@ -2,6 +2,7 @@
 
 # What i do
 - 👨🏿‍💻 Mobile Developer - CrossPlatform(Flutter)|Native(Android&iOS) 
+-  ✍🏿 Languages - Swift/Dart/Kotlin
 # Myself
 - 👨🏿‍💻 Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
