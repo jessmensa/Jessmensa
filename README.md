@@ -1,7 +1,7 @@
 ### Hi, I am Jesse Mensah 👋🇬🇭
 
 # What i do
-- 👨🏿‍💻 Mobile Developer(Flutter/iOS)
+- 👨🏿‍💻 Python/Java - Data Science | Flutter - Mobile App
 # Myself
 - 👨🏿‍💻 Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
