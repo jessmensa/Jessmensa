@@ -1,7 +1,7 @@
 ### Hi, I am Jesse Mensah 👋🇬🇭
 
 # What i do
-- 👨🏿‍💻 iOS/Android Developer - Flutter/Swift/Kotlin
+- 👨🏿‍💻 Web Developer & Mobile Application Developer(Flutter&Swift).
 # Myself
 - 👨🏿‍💻 Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
