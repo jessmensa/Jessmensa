@@ -1,7 +1,9 @@
 ### Hi, I am Jesse Mensah 👋🇬🇭
 
 # What i do
-- 👨🏿‍💻 Web Developer & Mobile Application Developer(Flutter&Swift).
+- 👨🏿‍💻 Startup Developer.
+# Tools 
+- Mobile-Flutter&React Native|Web Developement - HTML/CSS/JS/REACT
 # Myself
 - 👨🏿‍💻 Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
