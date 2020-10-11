@@ -2,8 +2,8 @@
 
 # What i do
 - 👨🏿‍💻 Startup Developer.
-# Tools 
-- Mobile-Flutter&React Native|Web Developement - HTML/CSS/JS/REACT
+# Skills 
+- Mobile-Flutter,React Native & Swift|Web Developement - HTML/CSS/JS/REACT
 # Myself
 - 👨🏿‍💻 Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
