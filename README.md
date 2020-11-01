@@ -3,7 +3,7 @@
 # What i do
 - 👨🏿‍💻 Startup Developer.
 # Skills 
-- Mobile-Flutter,React Native & Swift|Web Developement - HTML/CSS/JS/REACT
+- Mobile & Web Developer - Flutter/React Native/Swift/Kotlin/Html/Css/Js
 # Myself
 - 👨🏿‍💻 Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
