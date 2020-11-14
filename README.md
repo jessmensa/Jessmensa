@@ -1,9 +1,9 @@
 ### Hi, I am Jesse Mensah 👋🇬🇭
 
 # What i do
-- 👨🏿‍💻 Startup Developer.
+- 👨🏿‍💻 Web Developer.
 # Skills 
-- Mobile & Web Developer - Flutter/React Native/Swift/Kotlin/Html/Css/Js
+- Html/Css/Javascript
 # Myself
 - 👨🏿‍💻 Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
