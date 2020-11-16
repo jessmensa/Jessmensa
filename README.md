@@ -3,7 +3,7 @@
 # What i do
 - 👨🏿‍💻 Web Developer.
 # Skills 
-- Html/Css/Javascript
+- FrontEnd(Html, Css, Js, BootStrap, React etc)
 # Myself
 - 👨🏿‍💻 Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
