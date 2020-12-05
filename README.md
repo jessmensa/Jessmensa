@@ -1,9 +1,8 @@
 ### Hi, I am Jesse Mensah 👋🇬🇭
 
 # What i do
-- 👨🏿‍💻 Web Developer.
-# Skills 
-- FrontEnd(Html, Css, Js, BootStrap, React etc)
+- 👨🏿‍💻 Web & Mobile Developer.
+ 
 # Myself
 - 👨🏿‍💻 Working on side projects atm.  
 - ☕️ i dont really like coffee, just water. 
