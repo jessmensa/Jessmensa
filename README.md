@@ -2,7 +2,10 @@
 
 # What i do
 - Mensa develops MVP for early stage startups. 
- 
+# Tech Stack 
+- Mobile => Flutter & React Native
+- Web => Html/Css/Javascript/React
+- AI & Machine Learning => Python 
 # Myself
 - 🗣 Very communicative 
 - 🎯 Focused
