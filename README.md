@@ -1,7 +1,7 @@
 ### Hi, I am Mensa👋🇬🇭🇬🇧
 
 # What i do
-- Mensa develops MVP for early stage startups. 
+- Developer
 # Tech Stack 
 - Mobile => Flutter & React Native
 - Web => Html/Css/Javascript/React
