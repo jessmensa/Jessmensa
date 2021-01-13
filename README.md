@@ -1,11 +1,9 @@
-### Hi, I am Jesse Mensah 👋🇬🇭
+### Hi, I am Mensa👋🇬🇭
 
 # What i do
-- 👨🏿‍💻 Web & Mobile Developer.
+- Mensa develops MVP for early stage startups. 
  
 # Myself
-- 👨🏿‍💻 Working on side projects atm.  
-- ☕️ i dont really like coffee, just water. 
 - 🗣 Very communicative 
 - 🎯 Focused
 # Core Values 
