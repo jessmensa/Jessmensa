@@ -1,7 +1,7 @@
 ### Hi, I am Mensa👋🇬🇭🇬🇧
 
 # What i do
-- Developer
+- Dev
 # Tech Stack 
 - Mobile => Flutter & React Native
 - Web => Html/Css/Javascript/React
