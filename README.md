@@ -1,4 +1,4 @@
-### Hi, I am Mensa👋🇬🇭
+### Hi, I am Mensa👋🇬🇭🇬🇧
 
 # What i do
 - Mensa develops MVP for early stage startups. 
