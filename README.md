@@ -4,8 +4,7 @@
 - Dev
 # Tech Stack 
 - Mobile => Flutter & React Native
-- Web => Html/Css/Javascript/React
-- ML => Python 
+- Web => Html/Css/Javascript/React 
 # Myself
 - 🗣 Very communicative 
 - 🎯 Focused
