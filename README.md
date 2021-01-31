@@ -3,8 +3,8 @@
 # What i do
 - Dev
 # Tech Stack 
-- Mobile => Flutter
-- Web => Html/Css/Javascript/React 
+- Mobile => Flutter & iOS. 
+- Web => Flutter 
 # Myself
 - 🗣 Very communicative 
 - 🎯 Focused
