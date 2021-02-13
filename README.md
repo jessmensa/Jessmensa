@@ -1,16 +1,10 @@
 ### Hi, I am Mensa👋🇬🇭🇬🇧
 
 # What i do
-- Dev
-# Tech Stack 
-- Mobile => Flutter & iOS. 
-- Web => Flutter 
+- Learning Flutter & iOS Development. 
 # Myself
-- 🗣 Very communicative 
-- 🎯 Focused
-# Core Values 
-- 💪🏿 Very Persistent.
-- 🛀🏿 Clean code and architecture.
+- Very communicative 
+- Persistent 
 # Wanna reach me? 
 - 💬 very active on twitter @jessmensa
 - 📫 Contact me at jessemensah21@gmail.com
