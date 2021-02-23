@@ -1,7 +1,7 @@
 ### Hi, I am Mensa👋🇬🇭🇬🇧
 
 # What i do
-- Learning Flutter & Web Development. 
+- Learning Mobile & Web Development
 # Myself
 - Very communicative 
 - Persistent 
