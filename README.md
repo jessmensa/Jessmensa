@@ -1,7 +1,7 @@
 ### Hi, I am Mensa👋🇬🇭🇬🇧
 
 # What i do
-- Learning Mobile & Web Development
+- Web & Mobile Developer. 
 - Languages & Frameworks: Dart & Flutter, Javascript & React & React Native. 
 # Myself
 - Very communicative 
