@@ -2,7 +2,7 @@
 
 # What i do
 - Web & Mobile Developer. 
-- Languages & Frameworks: Dart & Flutter, Javascript & React & React Native. 
+- Languages & Frameworks: Dart|Flutter|Bootstrap|Javascript 
 # Myself
 - Very communicative 
 - Persistent 
